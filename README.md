@@ -1,2 +1,2 @@
-# kart
-Dijital kartvizit
+# Kartvizit
+https://ermetasarim.github.io/kart/
